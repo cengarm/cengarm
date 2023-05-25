@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mustafa Cengar</h1>
-<h3 align="center">A passionate backhand developer from Tukey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cengarm&label=Profile%20views&color=0e75b6&style=flat" alt="cengarm" /> </p>
 
