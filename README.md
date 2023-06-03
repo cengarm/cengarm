@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Api**
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Java Spring**, **Frontend**
 
 - 📫 How to reach me **mdcengar@gmail.com**
 
