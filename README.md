@@ -2,7 +2,7 @@
 
 
 <div >
-<p> <img align="right" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="500" height="320" /> </p>
+<p> <img align="right" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="475" height="320" /> </p>
 
 </div>
 
